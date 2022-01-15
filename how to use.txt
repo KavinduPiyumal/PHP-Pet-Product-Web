@@ -1,0 +1,17 @@
+how to use
+
+1)open xaampp or wampserve.
+2)connect all servers and go to phpmyadmin mysql database
+3) insert pets.sql to database.
+    before import your dtabase, create database name like pets(utf8 unicode ci)
+    and import pets.sql to it..
+4) There are products,home,product details,login,insert page are created.
+5)If you want to insert item to dtabase please log in to web application and insert it.. before insert image resolution should be 600*450,
+ its matching.
+6) login form
+  user name :- admin
+  password :-123456
+
+7) you can search item title what you are inserted.
+8)copy your pets folder to xammpp instralled location like..
+ ex :- C:\xampp\htdocs\pets
